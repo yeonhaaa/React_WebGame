@@ -6,4 +6,4 @@ import NumberBaseball from './NumberBaseballClass';
 
 const Hot = hot(NumberBaseball);
 
-ReactDom.render(<NumberBaseball />, document.querySelector('#root'));
+ReactDom.render(<Hot />, document.querySelector('#root'));
